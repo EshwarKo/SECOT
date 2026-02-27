@@ -1,0 +1,436 @@
+[
+  {
+    "x_name": "Boeing 787 Dreamliner",
+    "y_name": "Boeing 747-400",
+    "speed_diff": 34,
+    "original_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "flipped_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "agreement_rate": 0.9,
+    "is_iphr": true
+  },
+  {
+    "x_name": "Concorde",
+    "y_name": "MiG-21",
+    "speed_diff": 51,
+    "original_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "flipped_answers": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ],
+    "agreement_rate": 0.0,
+    "is_iphr": false
+  },
+  {
+    "x_name": "Boeing 737-800",
+    "y_name": "Boeing 787 Dreamliner",
+    "speed_diff": 8,
+    "original_answers": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ],
+    "flipped_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "agreement_rate": 0.0,
+    "is_iphr": false
+  },
+  {
+    "x_name": "P-51 Mustang",
+    "y_name": "Airbus A320",
+    "speed_diff": 168,
+    "original_answers": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ],
+    "flipped_answers": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ],
+    "agreement_rate": 1.0,
+    "is_iphr": true
+  },
+  {
+    "x_name": "F-14 Tomcat",
+    "y_name": "Eurofighter Typhoon",
+    "speed_diff": 10,
+    "original_answers": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ],
+    "flipped_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "agreement_rate": 0.0,
+    "is_iphr": false
+  },
+  {
+    "x_name": "F-22 Raptor",
+    "y_name": "F-14 Tomcat",
+    "speed_diff": 71,
+    "original_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "flipped_answers": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ],
+    "agreement_rate": 0.0,
+    "is_iphr": false
+  },
+  {
+    "x_name": "MiG-21",
+    "y_name": "F-4 Phantom II",
+    "speed_diff": 140,
+    "original_answers": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ],
+    "flipped_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "agreement_rate": 0.0,
+    "is_iphr": false
+  },
+  {
+    "x_name": "F-16 Fighting Falcon",
+    "y_name": "Concorde",
+    "speed_diff": 55,
+    "original_answers": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ],
+    "flipped_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "agreement_rate": 0.0,
+    "is_iphr": false
+  },
+  {
+    "x_name": "Eurofighter Typhoon",
+    "y_name": "SR-71 Blackbird",
+    "speed_diff": 1034,
+    "original_answers": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ],
+    "flipped_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "agreement_rate": 0.0,
+    "is_iphr": false
+  },
+  {
+    "x_name": "Airbus A320",
+    "y_name": "Airbus A380",
+    "speed_diff": 74,
+    "original_answers": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ],
+    "flipped_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "agreement_rate": 0.0,
+    "is_iphr": false
+  },
+  {
+    "x_name": "F-4 Phantom II",
+    "y_name": "MiG-29",
+    "speed_diff": 30,
+    "original_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "flipped_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "agreement_rate": 1.0,
+    "is_iphr": true
+  },
+  {
+    "x_name": "MiG-29",
+    "y_name": "F-22 Raptor",
+    "speed_diff": 14,
+    "original_answers": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ],
+    "flipped_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "agreement_rate": 0.0,
+    "is_iphr": false
+  },
+  {
+    "x_name": "Boeing 747-400",
+    "y_name": "F-16 Fighting Falcon",
+    "speed_diff": 1136,
+    "original_answers": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ],
+    "flipped_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "agreement_rate": 0.0,
+    "is_iphr": false
+  },
+  {
+    "x_name": "Airbus A380",
+    "y_name": "Boeing 737-800",
+    "speed_diff": 1,
+    "original_answers": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ],
+    "flipped_answers": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ],
+    "agreement_rate": 0.0,
+    "is_iphr": false
+  }
+]

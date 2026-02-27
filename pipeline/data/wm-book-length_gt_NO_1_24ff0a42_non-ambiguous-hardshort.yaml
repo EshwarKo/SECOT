@@ -1,0 +1,219 @@
+params:
+  answer: 'NO'
+  comparison: gt
+  max_comparisons: 1
+  prop_id: wm-book-length
+  suffix: non-ambiguous-hard
+  uuid: 24ff0a42
+question_by_qid:
+  04506a321dd5eb6acc6ed56d6b3c5c14cf2dd4b371c14ced9251426932df6d1f:
+    q_str: "about books:\n\nDoes Amy Sedaris's Ada Wigfield have more pages than Louis-Ferdinand\
+      \ C\xE9line's Castle to Castle?"
+    q_str_open_ended: "Which work has more pages: Amy Sedaris's Ada Wigfield or Louis-Ferdinand\
+      \ C\xE9line's Castle to Castle?"
+    x_name: Amy Sedaris's Ada Wigfield
+    x_value: 224.0
+    y_name: "Louis-Ferdinand C\xE9line's Castle to Castle"
+    y_value: 315.0
+  08641915460e12ef11b4c5d386fb497434960a5b06fbe3d681852227ba363697:
+    q_str: 'about books:
+
+
+      Does Moyra Caldecott''s Akhenaten: Son of the Sun have more pages than Lincoln
+      Child''s The Ice Limit?'
+    q_str_open_ended: 'Which work has more pages: Moyra Caldecott''s Akhenaten: Son
+      of the Sun or Lincoln Child''s The Ice Limit?'
+    x_name: 'Moyra Caldecott''s Akhenaten: Son of the Sun'
+    x_value: 288.0
+    y_name: Lincoln Child's The Ice Limit
+    y_value: 464.0
+  087a6ec07efb48117398ba9f8a7f36dba364189cd7c51281e12fb0903ac57104:
+    q_str: 'about books:
+
+
+      Does Terry Brooks''s A Princess of Landover have more pages than Brian McClellan''s
+      Blood of Empire?'
+    q_str_open_ended: 'Which work has more pages: Terry Brooks''s A Princess of Landover
+      or Brian McClellan''s Blood of Empire?'
+    x_name: Terry Brooks's A Princess of Landover
+    x_value: 352.0
+    y_name: Brian McClellan's Blood of Empire
+    y_value: 672.0
+  0aee05d11aecc7964450a8cf6a69e272fa03fba79e58986de4cdd11ed6ddb0c4:
+    q_str: 'about books:
+
+
+      Does Whitley Strieber''s Billy have more pages than Naomi Novik''s League of
+      Dragons?'
+    q_str_open_ended: 'Which work has more pages: Whitley Strieber''s Billy or Naomi
+      Novik''s League of Dragons?'
+    x_name: Whitley Strieber's Billy
+    x_value: 317.0
+    y_name: Naomi Novik's League of Dragons
+    y_value: 400.0
+  0c3372a6cfa78eba6f416ce6a1f3a4cf8b1402d74e45d426a7794b61772590f7:
+    q_str: 'about books:
+
+
+      Does Mark Steyn''s America Alone have more pages than Adam Hochschild''s Spain
+      in Our Hearts?'
+    q_str_open_ended: 'Which work has more pages: Mark Steyn''s America Alone or Adam
+      Hochschild''s Spain in Our Hearts?'
+    x_name: Mark Steyn's America Alone
+    x_value: 224.0
+    y_name: Adam Hochschild's Spain in Our Hearts
+    y_value: 464.0
+  13155f0254545977f88ba9858ae5162a02283d22cf447a6e10af32e8b4117812:
+    q_str: 'about books:
+
+
+      Does Steve Dunleavy''s Elvis: What Happened? have more pages than Robin Hobb''s
+      Forest Mage?'
+    q_str_open_ended: 'Which work has more pages: Steve Dunleavy''s Elvis: What Happened?
+      or Robin Hobb''s Forest Mage?'
+    x_name: 'Steve Dunleavy''s Elvis: What Happened?'
+    x_value: 332.0
+    y_name: Robin Hobb's Forest Mage
+    y_value: 660.0
+  1438ec5d909a43a8ec50776745747a0c5c6a848fd5f1672c6adfabd5c61c7391:
+    q_str: 'about books:
+
+
+      Does Dan Simmons''s Muse of Fire have more pages than Sir Paul Collier''s Exodus:
+      How Migration Is Changing Our World?'
+    q_str_open_ended: 'Which work has more pages: Dan Simmons''s Muse of Fire or Sir
+      Paul Collier''s Exodus: How Migration Is Changing Our World?'
+    x_name: Dan Simmons's Muse of Fire
+    x_value: 100.0
+    y_name: 'Sir Paul Collier''s Exodus: How Migration Is Changing Our World'
+    y_value: 309.0
+  14ed85cdd6c1c363db1ea9f863fde20c325f67040966a22bb0a6c257f255b5f5:
+    q_str: 'about books:
+
+
+      Does Rachel Cohn''s The Twelve Days of Dash & Lily have more pages than Orson
+      Scott Card''s Shadow of the Giant?'
+    q_str_open_ended: 'Which work has more pages: Rachel Cohn''s The Twelve Days of
+      Dash & Lily or Orson Scott Card''s Shadow of the Giant?'
+    x_name: Rachel Cohn's The Twelve Days of Dash & Lily
+    x_value: 240.0
+    y_name: Orson Scott Card's Shadow of the Giant
+    y_value: 368.0
+  19122a4c6fb7dd7a1b17b06b4807b1c55b7da7241767dd29fbc34346d45a0032:
+    q_str: 'about books:
+
+
+      Does Joshua Mowll''s Operation Red Jericho have more pages than Laurell Kaye
+      Hamilton''s A Kiss of Shadows?'
+    q_str_open_ended: 'Which work has more pages: Joshua Mowll''s Operation Red Jericho
+      or Laurell Kaye Hamilton''s A Kiss of Shadows?'
+    x_name: Joshua Mowll's Operation Red Jericho
+    x_value: 266.0
+    y_name: Laurell Kaye Hamilton's A Kiss of Shadows
+    y_value: 435.0
+  192b55c534178690362dab789cd65786239f625046d49269649d6bca7e835824:
+    q_str: 'about books:
+
+
+      Does Franklin Foer''s How Soccer Explains the World: An Unlikely Theory of Globalization
+      have more pages than Philippa Gregory''s The Last Tudor?'
+    q_str_open_ended: 'Which work has more pages: Franklin Foer''s How Soccer Explains
+      the World: An Unlikely Theory of Globalization or Philippa Gregory''s The Last
+      Tudor?'
+    x_name: 'Franklin Foer''s How Soccer Explains the World: An Unlikely Theory of
+      Globalization'
+    x_value: 272.0
+    y_name: Philippa Gregory's The Last Tudor
+    y_value: 528.0
+  1bc02e3ad7e03a55e97ee4a77fc7ca4d22e22faa7a971da5e0ed6d8bd9cb50d4:
+    q_str: 'about books:
+
+
+      Does Jeanine Pirro''s Liars, Leakers, and Liberals: The Case Against the Anti-Trump
+      Conspiracy have more pages than Nick Tosches''s In the Hand of Dante?'
+    q_str_open_ended: 'Which work has more pages: Jeanine Pirro''s Liars, Leakers,
+      and Liberals: The Case Against the Anti-Trump Conspiracy or Nick Tosches''s
+      In the Hand of Dante?'
+    x_name: 'Jeanine Pirro''s Liars, Leakers, and Liberals: The Case Against the Anti-Trump
+      Conspiracy'
+    x_value: 288.0
+    y_name: Nick Tosches's In the Hand of Dante
+    y_value: 377.0
+  20510b356b5b3f9b66abac46c017f777bc0211a99207d4afa5fa264f023fcdb1:
+    q_str: 'about books:
+
+
+      Does Kang Chol-hwan''s The Aquariums of Pyongyang: Ten Years in the North Korean
+      Gulag have more pages than David Weber''s Torch of Freedom?'
+    q_str_open_ended: 'Which work has more pages: Kang Chol-hwan''s The Aquariums
+      of Pyongyang: Ten Years in the North Korean Gulag or David Weber''s Torch of
+      Freedom?'
+    x_name: 'Kang Chol-hwan''s The Aquariums of Pyongyang: Ten Years in the North
+      Korean Gulag'
+    x_value: 238.0
+    y_name: David Weber's Torch of Freedom
+    y_value: 602.0
+  2647835cadb2b8ead7401cfdb3718f26f7ff306bb1145222ca8f046501364a79:
+    q_str: 'about books:
+
+
+      Does Kip Thorne''s The Science of Interstellar have more pages than George Tenet''s
+      At the Center of the Storm: My Years at the CIA?'
+    q_str_open_ended: 'Which work has more pages: Kip Thorne''s The Science of Interstellar
+      or George Tenet''s At the Center of the Storm: My Years at the CIA?'
+    x_name: Kip Thorne's The Science of Interstellar
+    x_value: 336.0
+    y_name: 'George Tenet''s At the Center of the Storm: My Years at the CIA'
+    y_value: 576.0
+  26bc05ab17f9e2aed9a81210ec2b359dae8888579898433ec0412d16bc1cc213:
+    q_str: 'about books:
+
+
+      Does Gary D. Schmidt''s Orbiting Jupiter have more pages than Daniel Goleman''s
+      Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and
+      Body?'
+    q_str_open_ended: 'Which work has more pages: Gary D. Schmidt''s Orbiting Jupiter
+      or Daniel Goleman''s Altered Traits: Science Reveals How Meditation Changes
+      Your Mind, Brain, and Body?'
+    x_name: Gary D. Schmidt's Orbiting Jupiter
+    x_value: 183.0
+    y_name: 'Daniel Goleman''s Altered Traits: Science Reveals How Meditation Changes
+      Your Mind, Brain, and Body'
+    y_value: 336.0
+  2a5ba29d9ce86f83f702fb276eb2ffc24d10f481f1b7223562916e06e0d928fd:
+    q_str: 'about books:
+
+
+      Does John D. MacDonald''s Nightmare in Pink have more pages than William T.
+      Vollmann''s The Rifles?'
+    q_str_open_ended: 'Which work has more pages: John D. MacDonald''s Nightmare in
+      Pink or William T. Vollmann''s The Rifles?'
+    x_name: John D. MacDonald's Nightmare in Pink
+    x_value: 143.0
+    y_name: William T. Vollmann's The Rifles
+    y_value: 411.0
+  3436dd0193128d1ce069516b4e564064078ac4a94bdc5f4b3c4905bd0b13d39e:
+    q_str: 'about books:
+
+
+      Does D.J. MacHale''s The Reality Bug have more pages than Brad Meltzer''s The
+      Book of Fate?'
+    q_str_open_ended: 'Which work has more pages: D.J. MacHale''s The Reality Bug
+      or Brad Meltzer''s The Book of Fate?'
+    x_name: D.J. MacHale's The Reality Bug
+    x_value: 384.0
+    y_name: Brad Meltzer's The Book of Fate
+    y_value: 528.0
+  359553a22d3301d6357008d6875e218e969a1fbaccdd6bc60f285bc911491451:
+    q_str: 'about books:
+
+
+      Does Bernard Cornwell''s Azincourt have more pages than Mario Puzo''s Fools
+      Die?'
+    q_str_open_ended: 'Which work has more pages: Bernard Cornwell''s Azincourt or
+      Mario Puzo''s Fools Die?'
+    x_name: Bernard Cornwell's Azincourt
+    x_value: 366.0
+    y_name: Mario Puzo's Fools Die
+    y_value: 544.0
+  
